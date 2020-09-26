@@ -6,24 +6,27 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
 
 ### 🛠  What am I use?
 
-<ul>
- <li>Kali Linux</li>
- <li>Ubuntu</li>
+<ul> AWS
+ <li>Cloudformation</li>
+ <li>CodeBuild</li>
  <li>VS Code</li>
- <li>Sublime Text</li>
- <li>Python</li>
- <li>HTML</li>  
- <li>CSS</li>
- <li>Bootstrap</li>
- <li>JS</li>
- <li>React/ React Native</li>
- <li>Node.js</li>
- <li>MySQL</li>
- <li>Oracle</li>
- <li>PostgreSQL</li>
- <li>MongoDB</li>
- <li>MariaDB</li>
- <li>django</li>
+ <li>Route53</li>
+ <li>ELB</li>
+ <li>VPC</li>  
+ <li>S3</li>
+ <li>EC2</li>
+ <li>Lambda</li>
+ <li>EKS</li>
+ <li>RDS</li>
+ </ul>
+ <ul> DEVOPS
+ <li>Dockerli>
+ <li>Kubernetes</li>
+ <li>Jenkins</li>
+ <li>Grafana</li>
+ <li>Prometheus</li>
+ <li>Ansible</li>
+ <li>Sonatype Nexus</li>
  </ul>
 
 <a href="https://www.linkedin.com/in/hasanhuseyinakkoca" target="_blank">
