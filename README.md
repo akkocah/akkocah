@@ -2,11 +2,11 @@
 **xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hi there 👋
-Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="https://github.com/akkocah/akkocah/blob/master/aws.png" alt="aws" width=350 height=auto align="center">
+Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="https://github.com/akkocah/akkocah/blob/master/aws.png" alt="aws" width=350 height=auto align="right">
 
 ### 🛠  What am I use?
 
-<ul> AWS
+<ul> <strong>AWS</strong>
  <li>Cloudformation</li>
  <li>CodeBuild</li>
  <li>VS Code</li>
@@ -19,7 +19,7 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
  <li>EKS</li>
  <li>RDS</li>
  </ul>
- <ul> DEVOPS   <img src="https://github.com/akkocah/akkocah/blob/master/devops.png" alt="devops" width=350 height=auto align="center">
+ <ul> <strong>DEVOPS</strong>   <img src="https://github.com/akkocah/akkocah/blob/master/devops.png" alt="devops" width=350 height=auto align="right">
  <li>Dockerli>
  <li>Kubernetes</li>
  <li>Jenkins</li>
