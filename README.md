@@ -30,7 +30,7 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
  </ul>
 
 <a href="https://www.linkedin.com/in/hasanhuseyinakkoca" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kenan-deniz">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/hasanhuseyinakkoca">
 </a>
 <a href="mailto:akkocah2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:akkocah2@gmail.com">
