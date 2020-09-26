@@ -6,7 +6,7 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
 
 ### 🛠  What am I use?
 
-<ul > <strong style="color: blue;">AWS</strong>
+<ul > <strong style="color: blue">AWS</strong>
  <li>Cloudformation</li>
  <li>CodeBuild</li>
  <li>VS Code</li>
