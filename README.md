@@ -6,7 +6,7 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
 
 ### 🛠  What am I use?
 
-<ul> <strong>AWS</strong>
+<ul style="color: blue;"> <strong>AWS</strong>
  <li>Cloudformation</li>
  <li>CodeBuild</li>
  <li>VS Code</li>
@@ -19,7 +19,7 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
  <li>EKS</li>
  <li>RDS</li>
  </ul>
- <ul> <strong>DEVOPS</strong>   <img src="https://github.com/akkocah/akkocah/blob/master/devops.png" alt="devops" width=400 height=auto align="right">
+ <ul style="color: blue;"> <strong>DEVOPS</strong>   <img src="https://github.com/akkocah/akkocah/blob/master/devops.png" alt="devops" width=400 height=auto align="right">
  <li>Dockerli>
  <li>Kubernetes</li>
  <li>Jenkins</li>
