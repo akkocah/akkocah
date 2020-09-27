@@ -19,7 +19,7 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
  <li>EKS</li>
  <li>RDS</li>
  </ul>
- <ul> <strong>DEVOPS</strong>   <img src="https://github.com/akkocah/akkocah/blob/master/DEVOPS.gif" alt="devops" width=500 height=auto align="right">
+ <ul> <strong>DEVOPS</strong>   <img src="https://github.com/akkocah/akkocah/blob/master/DEVOPS.gif" alt="devops" width=480 height=auto align="right">
  <li>Docker</li>
  <li>Kubernetes</li>
  <li>Jenkins</li>
