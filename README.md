@@ -8,7 +8,6 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
 
 <ul > <strong>AWS</strong>
  <li>Cloudformation</li>
- <li>CodeBuild</li>
  <li>VS Code</li>
  <li>Route53</li>
  <li>ELB</li>
@@ -16,7 +15,6 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
  <li>S3</li>
  <li>EC2</li>
  <li>Lambda</li>
- <li>EKS</li>
  <li>RDS</li>
  </ul>
  <ul> <strong>DEVOPS</strong>   <img src="https://github.com/akkocah/akkocah/blob/master/DEVOPS.gif" alt="devops" width=480 height=auto align="right">
