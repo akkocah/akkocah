@@ -24,7 +24,7 @@ Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
  <li>Grafana</li>
  <li>Prometheus</li>
  <li>Ansible</li>
- <li>Sonatype Nexus</li>
+ 
  </ul>
 
 <a href="https://www.linkedin.com/in/hasanhuseyinakkoca" target="_blank">
