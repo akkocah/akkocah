@@ -2,7 +2,7 @@
 **xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hi there 👋
-Hasan is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="https://github.com/akkocah/akkocah/blob/master/aws.png" alt="aws" width=400 height=auto align="right">
+Hasan is here. I'm a AWS Solution Architect & DEVOPS Engineer  <img src="https://github.com/akkocah/akkocah/blob/master/aws.png" alt="aws" width=400 height=auto align="right">
 
 ### 🛠  What am I use?
 
